@@ -1,0 +1,2 @@
+This is a basic terraform infra project which has assignment of variables in tfvar files. The two tfvar files are dev.tfvars and prod.tfvars
+The userdata contains the code to launch jenkins on the docker container.
